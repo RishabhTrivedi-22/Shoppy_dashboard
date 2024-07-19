@@ -1,5 +1,5 @@
-# Getting Started with Create React App
+# Shoppy Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Admin Panel includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts!
 
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
